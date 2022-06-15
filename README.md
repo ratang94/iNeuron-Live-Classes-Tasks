@@ -8,5 +8,7 @@ This repository contains all the live class notes of iNeuron Full Stack Data Sci
 
 
 
-![Logo](https://yt3.ggpht.com/LcVfKljG-Nz0A1-15S5QDqRtGrp0BV9lOZ4tqFG0RZooaP5FYCnAYMU14LQs77xNPGvLXA47Jg=s900-c-k-c0x00ffffff-no-rj)
+![Logo](https://media-exp1.licdn.com/dms/image/C4D22AQFpjs9qPypQ2A/feedshare-shrink_1280/0/1654932139093?e=1658361600&v=beta&t=uVhiBqTGAu0rHl9b59FQhyRrQTt2rjG7ToFq3xNB1gg)
+
+
 
